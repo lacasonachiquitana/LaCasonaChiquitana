@@ -1,7 +1,7 @@
 // Configuración de Supabase y constantes
 const SUPABASE_URL = "https://ckxbkzbrvejtespjjgcs.supabase.co";
 const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNreGJremJydmVqdGVzcGpqZ2NzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTE0MzA5NTEsImV4cCI6MjEwNzAwNjk1MX0.WgEcZFodWhZE69skClAHtJ5VgraR1FxJ1ffyRgBHnwQ";
-const TELEFONO_WHATSAPP = "59175528766";
+const TELEFONO_WHATSAPP = "59177007374";
 const IMAGE_BUCKET = 'hotel-images';
 const PAGE_IMAGE_PATHS = {
   hero: 'site/hero-image',
